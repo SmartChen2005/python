@@ -1,4 +1,4 @@
 # Python
 
-Smart Chen's Python Programs
-我的Python作品集
+_Smart Chen's Python Programs_
+_我的Python作品集_
