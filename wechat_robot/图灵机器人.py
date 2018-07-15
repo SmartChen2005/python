@@ -14,7 +14,7 @@ while 1:
 	#我们通过如下命令发送一个post请求
 	r=requests.post(apiUrl,data=data).json()
 	
-	#r是如下的一个字典
+	#r如下
 	#{'code': 100000, 'text': 'B'}
 
 	#打印返回值中的文本('text')
